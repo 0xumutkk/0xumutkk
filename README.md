@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=ML+%7C+Blockchain;Final-year+CS+student)](https://git.io/typing-svg)
 
 Final-year Computer Engineering student. 
-Around that: DeFi front-ends people actually want to use, prediction and perps markets, cross-chain messaging, and compliance tooling for on-chain money.
+Around that: DeFi front-ends people actually want to use, prediction and perps markets, cross-chain messaging, and compliance tooling for on-chain money, security of federated learning(PPAi).
 
 ---
 
